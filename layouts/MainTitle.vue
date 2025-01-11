@@ -15,7 +15,7 @@
         <motion :initial="{ opacity: 0, y: 50 }" :animate="{ opacity: 1, y: 0 }" transition="1.2s">
           <h2 class="description-title">
             <span class="highlight-content">
-              Exploring / Confirm your Research Topic
+              LITERATURE REVIEW - FOR EXPLORING YOUR RESEARCH METHOD
             </span>
           </h2>
         </motion>
